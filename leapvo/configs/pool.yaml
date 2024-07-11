@@ -44,7 +44,7 @@ visualizer:
 data:
   imagedir: '/home/pablo/proyecto-vision/dataset_leapvo/rgb'
   calib: '/home/pablo/proyecto-vision/dataset_leapvo/calib.txt'
-  stride: 3
+  stride: 1
   skip: 0
   max_length: 900
   gt_traj: '/home/pablo/proyecto-vision/dataset_leapvo/groundtruth.txt' ##
